@@ -1,0 +1,8 @@
+{
+  "output_directory": "./output",
+  "splitted_file_directory": "./splitted",
+  "channel_id": "YOUR_CHANNEL_ID",
+  "discord_token": "YOUR_DISCORD_TOKEN",
+  "send_max_worker": 5,
+  "get_max_worker": 3
+}
